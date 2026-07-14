@@ -1,2 +1,5 @@
-# A-Comprehensive-Measure-Of-Well-Being
-A web-based machine learning application that predicts the Human Development Index (HDI) using socio-economic indicators. Built with Flask, Scikit-Learn, and deployed on Render.
+🌍✨ HDI Predictor
+Machine Learning–Powered Flask Web App for Human Development Index Prediction
+       
+A sleek, glassmorphic dashboard that predicts a country's Human Development Index from its core development indicators — powered by Linear Regression.
+
